@@ -1,4 +1,4 @@
-# mail_gun
+# mail-gun
 A node js example of how to use mail gun to send mail.
 
 ## Dev Notes:
